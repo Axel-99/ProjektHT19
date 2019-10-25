@@ -24,6 +24,7 @@ namespace ProjektArbete
 
 
             PodcastRepo.SavePodcasts(podcasts);
+            var hej = "";
 
             podcasts = PodcastRepo.LoadPodcasts();
 
