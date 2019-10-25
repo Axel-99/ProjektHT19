@@ -23,7 +23,7 @@ namespace ProjektArbete
 
 
 
-            oijoihiöugb
+            PodcastRepo.SavePodcasts(podcasts);
 
             podcasts = PodcastRepo.LoadPodcasts();
 
